@@ -74,3 +74,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+## Testing Artefacts
+
+- **check-list:** [GitHub Repository](https://github.com/GeorgeVinichuk/check-list_vinichuk_george)
+- **test-case:** [GitHub Repository](https://github.com/GeorgeVinichuk/test-case_vinichuk_george)
+- **bug-report:** [GitHub Repository](https://github.com/GeorgeVinichuk/bug_report_vinichuk_george)
+- **graduate work:** [GitHub Repository](https://github.com/GeorgeVinichuk/graduate_work_yandex.practicum)
