@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Начиная с 2023года я начинающий manual тустировщик. Заканчивал такие курсы как Яндекс.Практикум и последним курс проходил у Artsiom Rusau QA
+Начиная с 2023года я начинающий manual тестировщик. Заканчивал такие курсы как Яндекс.Практикум и последним курс проходил у Artsiom Rusau QA
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@georgevinichuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/georgevinichuk/) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:vinichukg@yandex.ru) 
 
