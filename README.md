@@ -53,7 +53,7 @@
   
 </div>
 
-## Testing Artefacts
+## Тестовые артефакты
 
 - **check-list:** [GitHub Repository](https://github.com/GeorgeVinichuk/check-list_vinichuk_george)
 - **test-case:** [GitHub Repository](https://github.com/GeorgeVinichuk/test-case_vinichuk_george)
