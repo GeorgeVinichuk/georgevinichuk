@@ -11,6 +11,10 @@
 
 В дальнейшем хочу развиваться и обучаться в области тестирования.
 
+## Мое резюме
+
+- **Резюме:** [GitHub Repository My_CV](https://github.com/GeorgeVinichuk/My_CV/)
+
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@georgevinichuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/georgevinichuk/) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:vinichukg@yandex.ru) 
 
